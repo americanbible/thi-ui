@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "52C763BD-1161-472F-AE1F-2D983B155E32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 91,
+    "x": 99,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Breadcrumber/_Resources/Icon/Non current page",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "644D347A-021B-4716-BB4C-AA7D3953EA95",
+      "overrideName": "3938CF5A-BBAF-442B-A1EA-C7AF43206757_stringValue",
+      "value": "二级菜单"
+    }
+  ],
+  "overrides": {
+    "3938CF5A-BBAF-442B-A1EA-C7AF43206757": "二级菜单"
+  },
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BD90047D-BE72-4E99-BC9B-5A74C0394958",
+  "verticalSpacing": 0
+}

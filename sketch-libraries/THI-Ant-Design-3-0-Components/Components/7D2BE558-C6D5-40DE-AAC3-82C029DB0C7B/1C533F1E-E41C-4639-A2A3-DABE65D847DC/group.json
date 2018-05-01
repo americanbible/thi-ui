@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "1C533F1E-E41C-4639-A2A3-DABE65D847DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 224,
+    "x": 252,
+    "y": 1863
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F466A230-0C29-4944-BF2F-CDBE21E2812F"
+    },
+    {
+      "class": "text",
+      "id": "CAC4A45C-9D92-4742-9A4F-11ADDF976EFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7EA8515-418B-47A3-93CE-603D1992DAEB"
+    }
+  ],
+  "name": "日期选择框 Datepicker-nomal Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

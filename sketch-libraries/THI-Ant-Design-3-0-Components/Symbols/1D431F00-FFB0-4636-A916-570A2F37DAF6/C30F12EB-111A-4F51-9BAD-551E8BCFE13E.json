@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wNztDREVGR0tTVlpdYWNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANVU3RvcmXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeADoAVgBpfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJSqkISIjJIAIgAmACoALpCYmJiaADIAMgAyADIANU3JlZFVhbHBoYVRibHVlVWdyZWVuEAHSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMzNTZcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00go4OTpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA/TERIKPD8qoj0+gBCAEaJAQYASgBOADV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5fEBVTRkNvbXBhY3RUZXh0LVJlZ3VsYXLSMTJISV8QEE5TRm9udERlc2NyaXB0b3KiSjZfEBBOU0ZvbnREZXNjcmlwdG9y1EwKTU5PUFFSWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgACAGYAWgBjSEgpUVaCAF9IxMldYXk5TTXV0YWJsZUFycmF5o1dZNldOU0FycmF50hIKW1WggBfSMTJeX18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo15gNl8QEE5TUGFyYWdyYXBoU3R5bGXSMTI1YqI1NtIxMmRlXxASTlNBdHRyaWJ1dGVkU3RyaW5nomY2XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WlqVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAIwAkwCbAKYAqgCsAK4AsAC0ALYAuAC6ALwA6QELAR4BJQEqASwBLgEwATIBNwE5ATsBPQE/AUEBRQFLAVABVgFYAV0BaAFxAYcBiwGYAaEBpgHDAcUBxwHOAdEB0wHVAdgB2gHcAd4B9AIKAgwCJAIpAjwCPwJSAlsCZgJzAn8CgQKDAoUChwKMAo0CjwKUAqMCpwKvArQCtQK3ArwC1gLaAu0C8gL1AvoDDwMSAycDOQM8A0EAAAAAAAACAQAAAAAAAABrAAAAAAAAAAAAAAAAAAADQw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C30F12EB-111A-4F51-9BAD-551E8BCFE13E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B72867EE-5CFB-4144-B083-B30602FA06F2",
+    "height": 16,
+    "width": 35,
+    "x": 720,
+    "y": 52
+  },
+  "glyphBounds": "{{0, 3}, {34, 11}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Store",
+  "nameIsFixed": false,
+  "originalObjectID": "6DEB30D5-9386-4DCC-AFB0-591D755EB16B",
+  "resizingConstraint": 46,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E9064DD8-8271-485D-BC4E-99F8857866CD"
+  },
+  "textBehaviour": 0
+}

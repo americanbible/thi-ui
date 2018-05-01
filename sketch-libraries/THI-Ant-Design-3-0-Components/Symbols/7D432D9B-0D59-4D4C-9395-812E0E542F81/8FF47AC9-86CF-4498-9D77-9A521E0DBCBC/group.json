@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "8FF47AC9-86CF-4498-9D77-9A521E0DBCBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 278,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "338CCE85-07FE-4014-A999-FFCAD6A56EC5"
+    },
+    {
+      "class": "text",
+      "id": "AC011141-9E7B-407E-9C57-47E30478FD01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4ADC5DBA-B666-456A-92AC-2D022C227EA1"
+    }
+  ],
+  "name": "消息提示Message-浮出主动消失型消息提醒-绿色icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

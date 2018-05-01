@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0BE50641-14D4-4DC0-AD5B-237EE512EAA2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E00EF93A-B5E2-46A3-8958-DD5BFF625EAD",
+    "height": 32,
+    "width": 216,
+    "x": 263,
+    "y": 1014
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/Large/Placeholder  Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB1EE4AC-C2A7-46A9-A3C4-369DA65D9C3A",
+      "overrideName": "C5D737AE-0F7A-4A44-834F-6C208D82222B_stringValue",
+      "value": " Jellybeans"
+    }
+  ],
+  "overrides": {
+    "C5D737AE-0F7A-4A44-834F-6C208D82222B": " Jellybeans"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F301135A-D2F6-4366-996F-683037BA8569",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "80EE23D2-3393-4F95-A545-797DC0F66D91",
+  "verticalSpacing": 0
+}

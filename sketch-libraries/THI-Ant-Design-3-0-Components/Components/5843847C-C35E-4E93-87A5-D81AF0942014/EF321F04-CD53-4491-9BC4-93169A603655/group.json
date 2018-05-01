@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "EF321F04-CD53-4491-9BC4-93169A603655",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 398,
+    "x": 2662,
+    "y": 4172
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "69F420F3-13AE-4A14-94EB-455B8EA49525"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A49D0AF8-0E13-4AA9-9CB0-28D1B4813C7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E1E9D25-0A33-4DB3-83E8-DEED8595CC38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7E88207-02D2-48F4-BDCF-B1873B63D6B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5CFA46E-364A-4196-BAD6-5E818531E12B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11E97BC6-5593-413E-B688-F085025B15EF"
+    }
+  ],
+  "name": "slide",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

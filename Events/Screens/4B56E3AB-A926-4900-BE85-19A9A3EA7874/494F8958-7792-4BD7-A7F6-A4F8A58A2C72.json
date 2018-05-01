@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAcHR4fKywtLi8wMTg8REVGR0hMV1peYWVnVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADXxA8TWFsdmVybiBSZXRyZWF0IEhvdXNlLCAzMTUgUy4gV2FycmVuIEF2ZS4sIE1hbHZlcm4sIFBBIDE5MzU10xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgA+AFoAbXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKICUqpCEiIySACIAJgAqAC6QmJyYmgAyADYAMgAyADlNyZWRVYWxwaGFUYmx1ZVVncmVlbhAAIz/rMzMzMzMz0jIzNDVaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNDY3XE5TRGljdGlvbmFyeVhOU09iamVjdNIKOTo7XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFYAQ0xESCj1AKqI+P4ARgBKiQUKAE4AUgA5fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAPXxAQU0ZVSVRleHQtUmVndWxhctIyM0lKXxAQTlNGb250RGVzY3JpcHRvcqJLN18QEE5TRm9udERlc2NyaXB0b3LWTU5PUApRUlNUVVZUWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAGSNANQAAAAAAAIAXgBrSEgpYWaCAGNIyM1tcXk5TTXV0YWJsZUFycmF5o1tdN1dOU0FycmF50hIKX1mggBjSMjNiY18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2JkN18QEE5TUGFyYWdyYXBoU3R5bGXSMjM2ZqI2N9IyM2hpXxASTlNBdHRyaWJ1dGVkU3RyaW5nomo3XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W1uVHJvb3SAAQAIABEAGgAjAC0AMgA3AFcAXQBkAG0AdACBAIMAhQCHAMYAzQDVAOAA5ADmAOgA6gDuAPAA8gD0APYBIwFFAVgBXwFkAWYBaAFqAWwBcQFzAXUBdwF5AXsBfwGFAYoBkAGSAZsBoAGrAbQBygHOAdsB5AHpAgYCCAIKAhECFAIWAhgCGwIdAh8CIQI3Ak0CTwJiAmcCegJ9ApACnQKoArQCxgLTAuUC5wLpAvIC9AL2AvsC/AL+AwMDEgMWAx4DIwMkAyYDKwNFA0kDXANhA2QDaQN+A4EDlgOoA6sDsAAAAAAAAAIBAAAAAAAAAG8AAAAAAAAAAAAAAAAAAAOy"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "494F8958-7792-4BD7-A7F6-A4F8A58A2C72",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "234A39C2-1EC9-4FE2-BCED-5FA15C79A108",
+    "height": 42,
+    "width": 276,
+    "x": 670,
+    "y": 628
+  },
+  "glyphBounds": "{{0, 4}, {269, 36}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "lineSpacingBehaviour": 2,
+  "name": "Malvern Retreat Hous",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AA6B8F10-FFB2-4FED-9A63-7741B059646C"
+  },
+  "textBehaviour": 1
+}

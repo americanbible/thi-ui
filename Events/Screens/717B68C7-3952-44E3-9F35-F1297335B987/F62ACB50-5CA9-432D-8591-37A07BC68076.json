@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F62ACB50-5CA9-432D-8591-37A07BC68076",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D3B10EF-29B1-4715-96A8-3A27651071C6",
+    "height": 32,
+    "width": 324,
+    "x": 438,
+    "y": 1253
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/Large/Placeholder  Copy 13",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "818D26D5-0302-4B23-B856-8FCF43BB2278",
+      "overrideName": "B782BB35-D29C-4180-A14F-8643B07E6EF7_stringValue",
+      "value": "Begin typing all facilitator names"
+    }
+  ],
+  "overrides": {
+    "B782BB35-D29C-4180-A14F-8643B07E6EF7": "Begin typing all facilitator names"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10016361-EE90-4023-AA22-2645A1974DE3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "693340FC-B67A-4E6F-B3E9-212EB6866F78",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F9FBC1AC-EE06-4AF9-BE26-2E00F4EA4D1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 24,
+    "x": 0,
+    "y": 3.0234375
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3CB5E7B9-EF27-4027-BC4C-1BDEB8E14DDE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D77C3CF2-702E-4315-80BD-EE9C691B37D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A501014-5FCE-48F9-8579-AFE56A418580"
+    }
+  ],
+  "name": "creditcard",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.234375,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

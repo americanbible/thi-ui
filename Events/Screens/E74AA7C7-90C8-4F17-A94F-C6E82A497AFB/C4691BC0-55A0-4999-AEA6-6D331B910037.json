@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C4691BC0-55A0-4999-AEA6-6D331B910037",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55C9B489-762F-415B-9ECD-7657A59767B2",
+    "height": 32,
+    "width": 179,
+    "x": 438,
+    "y": 1639
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown/Button/Secondary/Medium",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D3BE36B-AEE7-4482-B4FD-29D83E6EFD24",
+      "overrideName": "B0F7ED1E-A610-48AB-82EB-0FE52D01273C_stringValue",
+      "value": "Add additional fields"
+    }
+  ],
+  "overrides": {
+    "B0F7ED1E-A610-48AB-82EB-0FE52D01273C": "Add additional fields"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29E18345-B737-445A-BE44-2628ACCD807C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "340AA616-7993-4016-AE55-17D61B298780",
+  "verticalSpacing": 0
+}

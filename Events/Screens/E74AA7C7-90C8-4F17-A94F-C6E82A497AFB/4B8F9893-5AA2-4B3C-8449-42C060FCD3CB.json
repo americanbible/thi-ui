@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4B8F9893-5AA2-4B3C-8449-42C060FCD3CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFD45063-7525-416A-9D1C-26AB6B4592C9",
+    "height": 32,
+    "width": 130,
+    "x": 437,
+    "y": 1583
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Secondary/Icon/Medium",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C982C3A7-9420-4007-982E-378113D3A93C",
+      "overrideName": "E7747CBE-728E-4D91-944F-69707E7D4612_stringValue",
+      "value": "Upload Flyer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4930F0BB-D39E-46E2-9E0A-64B5BAAB1E24",
+      "overrideName": "A9F0CFE0-AD5F-4165-B989-AEC07563CB72_symbolID",
+      "value": "80E82B94-26E9-499A-8DF2-23341FFAC820"
+    }
+  ],
+  "overrides": {
+    "A9F0CFE0-AD5F-4165-B989-AEC07563CB72": {
+      "symbolID": "80E82B94-26E9-499A-8DF2-23341FFAC820"
+    },
+    "E7747CBE-728E-4D91-944F-69707E7D4612": "Upload Flyer"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18A50DD9-405B-49B0-A5BD-E28BAF36F165",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "148FC47F-9B8E-44AE-AF74-8DEF3F3AA378",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3EA0902B-879B-4889-A8EC-64EC867F210B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 153,
+    "x": 2,
+    "y": 46
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Class A/Normal",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0381A989-CDF1-48B3-B5E9-3BCFB590E6A3",
+      "overrideName": "C64CD79C-8459-4E5D-9B2F-6A81DB25DA86_stringValue",
+      "value": "数据展示"
+    }
+  ],
+  "overrides": {
+    "C64CD79C-8459-4E5D-9B2F-6A81DB25DA86": "数据展示"
+  },
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2E1ED7C5-3403-4263-9679-35E283358760",
+  "verticalSpacing": 0
+}

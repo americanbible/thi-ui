@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "do_objectID": "FF988CA0-3520-49BD-A100-A671A270B4D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 273,
+    "width": 720,
+    "x": 120,
+    "y": 518
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FDD76F2B-8CA6-4757-9CF1-61F768CEE5CB"
+    },
+    {
+      "class": "text",
+      "id": "423CBCD5-A0DA-4647-9DFD-744371B4933C"
+    },
+    {
+      "class": "text",
+      "id": "C393D1EF-B5FF-40ED-A3AF-D34AF63C2CF3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "83DC6880-6103-4ECC-953E-48494D8B7015"
+    },
+    {
+      "class": "text",
+      "id": "14D1BF89-7699-41C2-AD76-C2B530F99A9B"
+    },
+    {
+      "class": "text",
+      "id": "83D9BA44-8839-40A2-A90F-38C0B8CFD585"
+    },
+    {
+      "class": "text",
+      "id": "6DF2EB25-E252-4A8A-8957-58CF620D2C83"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B229CF98-1EE7-4594-8BD2-274948E52C25"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67907BC4-4B42-4BC3-BE5C-5A8D2A3B96D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3940B7FA-0E2A-4D95-A363-48D0D9FBFB1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DE8A685-C47A-4FE6-BECE-AAC2622FB5C3"
+    }
+  ],
+  "name": "列表基本样式List - 基本样式 - 中号列表",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

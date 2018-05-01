@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "A1477FA1-4BC8-4CA5-8500-D75A5680B1A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 288,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "52FDE774-0D33-418C-BB84-89AA340DCB29"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F0313B9-D0A5-4480-8FCC-4C3649CF4D96"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D299E75-87A6-4BF3-857B-FAAE2FF4F3C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "714D57B2-5A5E-42EC-84A7-90CCCD5ACDE2"
+    }
+  ],
+  "name": "Steps/vertocal/number+medium",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

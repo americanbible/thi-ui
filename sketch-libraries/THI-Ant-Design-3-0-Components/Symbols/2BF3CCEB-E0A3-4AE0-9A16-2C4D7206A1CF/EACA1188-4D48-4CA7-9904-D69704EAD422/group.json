@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "EACA1188-4D48-4CA7-9904-D69704EAD422",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 278,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C02D4110-7FCB-4BEB-820F-1F7D05D50196"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "350268FC-6133-4426-9D1D-61B540DBB5DA"
+    },
+    {
+      "class": "text",
+      "id": "76C43D4E-AFFB-4A67-8C48-99DAB721C089"
+    }
+  ],
+  "name": "消息提示Message-浮出主动消失型消息提醒-红色icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

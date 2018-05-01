@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3C6B7E7A-9C8E-4231-8AB9-028AE0AB7EF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 324,
+    "x": 437,
+    "y": 657
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox/Default/Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB1A219B-4825-40B6-8268-576CD585C59E",
+      "overrideName": "7364FE33-1AC7-430C-8A49-CAEB463AC41A_stringValue",
+      "value": "Show my organizations logo on event page"
+    }
+  ],
+  "overrides": {
+    "7364FE33-1AC7-430C-8A49-CAEB463AC41A": "Show my organizations logo on event page"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "737215DD-8DD9-4C40-8CAE-3193B6BA9569",
+  "verticalSpacing": 0
+}

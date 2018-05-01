@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C9203365-2FC9-498B-AD69-3C08E1D7C2BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0534302-D50A-442C-B6A2-2FAE9350A8A7",
+    "height": 32,
+    "width": 162,
+    "x": 437,
+    "y": 703
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DatePicker/Medium/Placeholder ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CBE0F5D-DEC9-4908-B6E9-A930D7429696",
+      "overrideName": "D5D79286-2E08-44DA-9DB1-3A91686FF5B9_stringValue",
+      "value": "Start date"
+    }
+  ],
+  "overrides": {
+    "D5D79286-2E08-44DA-9DB1-3A91686FF5B9": "Start date"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78E05ED2-38FD-46FC-9527-73673EE27808",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EC253A2E-58EA-4DE9-B6CF-09DC3539F4C0",
+  "verticalSpacing": 0
+}

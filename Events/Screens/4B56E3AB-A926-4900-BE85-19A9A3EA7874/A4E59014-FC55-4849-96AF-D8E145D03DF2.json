@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A4E59014-FC55-4849-96AF-D8E145D03DF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 276,
+    "x": 670,
+    "y": 420
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Basic/Large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7351EF8-8F2F-4875-B073-7A1B41E99C40",
+      "overrideName": "BBC07FD1-EAC2-4FA7-9AB0-EE263AB8357C_stringValue",
+      "value": "Register"
+    }
+  ],
+  "overrides": {
+    "BBC07FD1-EAC2-4FA7-9AB0-EE263AB8357C": "Register"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2441EE3B-D3EA-4B76-A250-7EDB7F43E083",
+  "verticalSpacing": 0
+}

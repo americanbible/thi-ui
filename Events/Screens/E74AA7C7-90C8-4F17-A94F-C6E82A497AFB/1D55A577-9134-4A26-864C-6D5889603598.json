@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1D55A577-9134-4A26-864C-6D5889603598",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA1A491A-1141-4266-AE77-4E99F07DE695",
+    "height": 32,
+    "width": 117,
+    "x": 112,
+    "y": 1712
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Secondary/Basic/Medium Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F0E26367-AACC-4D2F-9BDF-AB7509F1A0CB",
+      "overrideName": "AEC9F371-AD12-451C-A863-E490D2E698C8_stringValue",
+      "value": "Cancel Event"
+    }
+  ],
+  "overrides": {
+    "AEC9F371-AD12-451C-A863-E490D2E698C8": "Cancel Event"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9953EA48-8B3B-4B9F-BD3C-4D3B47ED4085",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "96151C18-7FE8-40E4-AC43-776C2897F6D4",
+  "verticalSpacing": 0
+}

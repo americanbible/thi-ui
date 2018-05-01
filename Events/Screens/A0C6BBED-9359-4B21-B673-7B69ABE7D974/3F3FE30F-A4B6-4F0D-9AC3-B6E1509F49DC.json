@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3F3FE30F-A4B6-4F0D-9AC3-B6E1509F49DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15807CFB-A69D-45D3-BFDB-F966D4BE0D61",
+    "height": 186,
+    "width": 388,
+    "x": 113,
+    "y": 511
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Card/EventCard",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A338C0C-B5CE-463E-B587-238784062A9B",
+      "overrideName": "49C3D6BA-F37F-46AE-9E77-F678B84B8C41_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "49C3D6BA-F37F-46AE-9E77-F678B84B8C41": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "485667B1-CCB3-44C4-B210-5646DE515F95",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "85C981B9-1077-408C-A205-786E14B49188",
+  "verticalSpacing": 0
+}

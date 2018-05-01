@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "0A55E782-BAF0-4992-9309-327D8BDD6FA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 88,
+    "x": 240,
+    "y": 1049
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C021E85E-A0BC-4946-A9CB-C4AA87C1C419"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "510E0A79-333B-40C7-9541-8D901272758E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "581C0FB8-981F-41FB-9F46-0427A3CC9F65"
+    },
+    {
+      "class": "text",
+      "id": "15140875-EF10-4FED-9AC8-3520766ED2B4"
+    },
+    {
+      "class": "group",
+      "id": "4FE2DCE1-2A95-4BD3-9D8B-D0E9452427A8"
+    },
+    {
+      "class": "group",
+      "id": "19D46D09-9727-4A08-8F1B-A82AE3CAF70F"
+    }
+  ],
+  "name": "输入框 Input-微调输入框-大尺寸",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

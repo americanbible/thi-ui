@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "80F602EE-C0A1-4B48-BAD9-C3F96FA5B55E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FF6186C-4C91-44DA-A73D-D9B2B516BF9D",
+    "height": 32,
+    "width": 102,
+    "x": 717,
+    "y": 1712
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Secondary/Basic/Medium Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9E68DB22-60F3-433F-8450-A086BCC3A3B2_stringValue",
+      "value": "Save Draft"
+    }
+  ],
+  "overrides": {
+    "9E68DB22-60F3-433F-8450-A086BCC3A3B2": "Save Draft"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C536E9DE-BAD6-4EDF-8308-2119A86D9A00",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5BAA0EF0-8979-4F84-82AF-B2AB85AAC342",
+  "verticalSpacing": 0
+}

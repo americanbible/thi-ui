@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6C0A14EA-6784-4A50-90C5-0DD0991A8910",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "052B72CA-1DF3-4F15-B70C-95D402DD9114",
+    "height": 32,
+    "width": 353,
+    "x": 411,
+    "y": 492
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/Large/Placeholder  Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C5D737AE-0F7A-4A44-834F-6C208D82222B_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "C5D737AE-0F7A-4A44-834F-6C208D82222B": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1696957E-1B99-46AF-9CE1-EBA557DD1E91",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "04A22E4A-983B-404C-BDB1-1AC48810C31C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4E8FBC32-48E9-437F-A2E9-6C6922644CF4",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1170,
+  "do_objectID": "B5F0CDE0-7770-4896-88C7-0F4FBBBBCD33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B89006C-8DCF-4AA5-9DF7-E16E9A615AF2",
+    "height": 24,
+    "width": 58,
+    "x": 254,
+    "y": 3262
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EA34A842-A6EE-4756-AB9A-2828823F492D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "71954476-7BAF-4365-ADCF-CCEA33C32D14"
+    },
+    {
+      "class": "text",
+      "id": "8FDB9CD7-6A82-4AAB-954F-1474D4F15E78"
+    }
+  ],
+  "name": "Button/Ghost/Small",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D403762-F117-4252-B2AC-4DFDD1882096",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EFA7AC8E-AC2D-45B6-AA91-B16537D7E636",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7FFB24DB-C0D0-4CBA-89D7-EA98BA3B2C6D",
+    "guides": [
+    ]
+  }
+}

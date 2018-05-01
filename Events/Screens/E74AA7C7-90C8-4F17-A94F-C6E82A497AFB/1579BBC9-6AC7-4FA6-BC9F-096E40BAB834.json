@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1579BBC9-6AC7-4FA6-BC9F-096E40BAB834",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1AB2EB5A-8801-4FB8-85F0-6AFA3A18BD63",
+    "height": 32,
+    "width": 145,
+    "x": 489,
+    "y": 1014
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/Large/Placeholder  Copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5214A736-A8E8-454D-9CC3-170F0749AC2F",
+      "overrideName": "C5D737AE-0F7A-4A44-834F-6C208D82222B_stringValue",
+      "value": " 25000"
+    }
+  ],
+  "overrides": {
+    "C5D737AE-0F7A-4A44-834F-6C208D82222B": " 25000"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D0134B4-B0AC-4749-B6AA-313C9E20BE1A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "80EE23D2-3393-4F95-A545-797DC0F66D91",
+  "verticalSpacing": 0
+}

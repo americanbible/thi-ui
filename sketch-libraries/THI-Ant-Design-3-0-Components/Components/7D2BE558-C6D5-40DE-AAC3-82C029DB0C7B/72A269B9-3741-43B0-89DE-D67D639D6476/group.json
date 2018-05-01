@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "72A269B9-3741-43B0-89DE-D67D639D6476",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 364,
+    "x": 240,
+    "y": 951
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D2F13C49-FCFD-4263-9EA9-54CBF8E04C68"
+    },
+    {
+      "class": "text",
+      "id": "61D24744-DA21-4944-9152-5AE31F2B7596"
+    },
+    {
+      "class": "text",
+      "id": "FC9CEAF5-4045-4918-8D30-A747FA471A3C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03D20B0C-7DD2-41AD-B849-C6C3FA3536E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "429B8CE0-5920-4A2D-9449-EED33F92BD34"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC05C707-3477-452A-BCF4-421EC9F6BA5C"
+    },
+    {
+      "class": "text",
+      "id": "A2781F89-3B8D-49B5-8BD3-0465EBCBED24"
+    },
+    {
+      "class": "text",
+      "id": "57B85AD8-2DF1-469C-9769-96ED7E82E10A"
+    }
+  ],
+  "name": "输入框 Input-输入格式约束-电话号码",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

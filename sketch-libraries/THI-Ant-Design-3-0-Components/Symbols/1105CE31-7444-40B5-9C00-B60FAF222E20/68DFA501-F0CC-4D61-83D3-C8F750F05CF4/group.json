@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "68DFA501-F0CC-4D61-83D3-C8F750F05CF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 104,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6112215B-14E9-4105-9E12-8DAE9FA38BB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D932D779-2A60-41D4-9E71-F7ECE1F8BB0E"
+    }
+  ],
+  "name": "上传 Upload - 卡片样  式上传后 - 成功状态",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

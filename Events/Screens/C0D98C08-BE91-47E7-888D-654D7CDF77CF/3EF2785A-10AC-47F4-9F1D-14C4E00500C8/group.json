@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "3EF2785A-10AC-47F4-9F1D-14C4E00500C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1499,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CCC32CD7-BFDA-418A-A4AA-BE6236B351D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DA6BF62-5848-43F3-A9A6-A0830395724A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1873F431-8FBA-4EF6-A937-8F076C17219F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "329B01F5-4FBF-4FF4-8B14-BAF670D7DF86"
+    }
+  ],
+  "name": "Modal+Background",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

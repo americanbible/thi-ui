@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C457A66A-EE64-4C26-BD4A-5107AECDDE8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 410,
+    "x": 2192,
+    "y": 4172
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E762944-3868-4B3D-9A93-15B68BD9E744"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "894C8EAC-551E-4513-9CCA-0F2295487E5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FBB6538-8EC9-43C1-AC53-9CFD80E18EAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CC064E0-A1C3-45D5-8634-A55A1C2E24FF"
+    }
+  ],
+  "name": "Icon Tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

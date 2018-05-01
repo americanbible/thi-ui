@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "13E82F55-FC56-476A-B0B0-D87A983F1228",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E91440B6-2E7D-438D-943F-B7A0F27556E9",
+    "height": 32,
+    "width": 105,
+    "x": 243,
+    "y": 217
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown/Button/Secondary/Medium Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58477F26-221F-4A36-914B-46EC7DA34853",
+      "overrideName": "B0F7ED1E-A610-48AB-82EB-0FE52D01273C_stringValue",
+      "value": "Location"
+    }
+  ],
+  "overrides": {
+    "B0F7ED1E-A610-48AB-82EB-0FE52D01273C": "Location"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF0352E2-B112-479E-A837-B54797F1ED95",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "340AA616-7993-4016-AE55-17D61B298780",
+  "verticalSpacing": 0
+}

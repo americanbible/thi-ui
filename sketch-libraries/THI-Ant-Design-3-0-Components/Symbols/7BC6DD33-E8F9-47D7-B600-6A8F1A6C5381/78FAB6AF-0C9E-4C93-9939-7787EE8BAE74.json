@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGentYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIwcIDxAiIyQlJicoNDU2Nzg5Ojs8Q0dPUFFSU1ddYGlscHR2VSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAIoADZJAJTi1lh1tX0xESChMaIVdOUy5rZXlzWk5TLm9iamVjdHOmFBUWFxgZgASABYAGgAeACIAJphscHR4eIIAKgBSAG4APgA+AHYAhXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV1OU1N0cm9rZUNvbG9yVk5TS2Vybl1OU1N0cm9rZVdpZHRoXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgopLjOkKissLYALgAyADYAOpB4wMTKAD4AQgBGAEoATU3JlZFVhbHBoYVRibHVlVWdyZWVuEAAQASM/4fHx8fHx8yM/4zMzMzMzM9I9Pj9AWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz9BQlxOU0RpY3Rpb25hcnlYTlNPYmplY3TSCkRFRl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBqAFdMREgpISzOiSUqAFoAXokxNgBiAGYATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDl8QEVBpbmdGYW5nU0MtTWVkaXVt0j0+VFVfEBBOU0ZvbnREZXNjcmlwdG9yolZCXxAQTlNGb250RGVzY3JpcHRvctNYWQpaW1xVTlNSR0JcTlNDb2xvclNwYWNlSjAgMCAwIDAuNgAQAoAc0j0+Xl9XTlNDb2xvcqJeQtZhYmNkCmVbZmc5aGdbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvbl8QD05TTWF4TGluZUhlaWdodIAeI0A2AAAAAAAAgCDSEgpqa6CAH9I9Pm1uXk5TTXV0YWJsZUFycmF5o21vQldOU0FycmF50j0+cXJfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNxc0JfEBBOU1BhcmFncmFwaFN0eWxl0j0+QXWiQULSPT53eF8QEk5TQXR0cmlidXRlZFN0cmluZ6J5Ql8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF8fVRyb290gAEACAARABoAIwAtADIANwBdAGMAagBzAHoAhwCJAIsAjQCWAJ0ApQCwALcAuQC7AL0AvwDBAMMAygDMAM4A0ADSANQA1gDYAQUBJwE1ATwBSgFdAWQBaQFrAW0BbwFxAXYBeAF6AXwBfgGAAYQBigGPAZUBlwGZAaIBqwGwAbsBxAHaAd4B6wH0AfkCFgIYAhoCIQIkAiYCKAIrAi0CLwIxAkcCXQJfAnMCeAKLAo4CoQKoAq4CuwLGAsgCygLPAtcC2gLnAvMC/gMQAyUDNwM5A0IDRANJA0oDTANRA2ADZANsA3EDiwOPA6IDpwOqA68DxAPHA9wD7gPxA/YAAAAAAAACAQAAAAAAAAB+AAAAAAAAAAAAAAAAAAAD+A=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "78FAB6AF-0C9E-4C93-9939-7787EE8BAE74",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 56,
+    "x": 36,
+    "y": 12
+  },
+  "glyphBounds": "{{0, 4}, {56, 14}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "EA61A415-D822-4416-A6E4-60E4BAB6FA7B"
+  },
+  "textBehaviour": 0
+}

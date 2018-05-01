@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "FF7C6F29-4048-4941-8B68-59118048E16F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6368B481-E2D9-475A-AE55-8D85F0E1FEFC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4815774-385B-4712-8922-C9D6D73DA292"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF0011E4-FD06-4C4D-A57D-CC5D2CD8006A"
+    },
+    {
+      "class": "group",
+      "id": "DD88830A-A01F-487D-8FB3-3234F31C78D5"
+    },
+    {
+      "class": "text",
+      "id": "C26EFB68-C706-49E9-9454-DE4F99A1BDC0"
+    },
+    {
+      "class": "text",
+      "id": "B67C1EFD-E798-463E-8DCE-5C0D97375521"
+    }
+  ],
+  "name": "输入框 Input-标签输入框-.com后缀",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
